@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/VitorEmanoelNogueira/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://vitoremanoelnogueira.github.io/qr-code-component-main/index.html)
+- Solution URL: [https://github.com/VitorEmanoelNogueira/qr-code-component-main]
+- Live Site URL: [https://vitoremanoelnogueira.github.io/qr-code-component-main/index.html]
 
 ## My process
 - Create the semantic HTML first and then did the stylization using CSS with the help of the design file.
